@@ -11,3 +11,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mask-sir&show_icons=true&locale=en&layout=compact" alt="mask-sir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mask-sir&show_icons=true&locale=en" alt="mask-sir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mask-sir&" alt="mask-sir" /></p>
